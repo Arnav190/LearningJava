@@ -1,5 +1,5 @@
 /*
-Q7 WAP to count the total number of calls for a member function: 
+Q7 WAP to count the total number of calls for a member function:
 display(), from more than one objects and how many times the object is 
 created of a class name Employee.
 Note: Call display() function from more than 3 objects
